@@ -1,0 +1,232 @@
+{
+    "market": {
+        "fiat-egea": {
+            "isim": "Fiat Egea",
+            "fiyat": 40000,
+            "kategori": "araba",
+            "rolID": "1010997002412249203"
+        },
+        "renault-symbol": {
+            "isim": "Renault Symbol",
+            "fiyat": 45000,
+            "kategori": "araba",
+            "rolID": "1010997009982947399"
+        },
+        "opel-astra": {
+            "isim": "Opel Astra",
+            "fiyat": 50000,
+            "kategori": "araba",
+            "rolID": "1010996173089288302"
+        },
+        "skoda-superb": {
+            "isim": "Skoda Superb",
+            "fiyat": 85000,
+            "kategori": "araba",
+            "rolID": "1010997007558643763"
+        },
+        "wolksvagen-passat": {
+            "isim": "Wolksvagen Passat",
+            "fiyat": 130000,
+            "kategori": "araba",
+            "rolID": "1010997004832354335"
+        },
+        "audi-a7": {
+            "isim": "Audi A7",
+            "fiyat": 250000,
+            "kategori": "araba",
+            "rolID": "1010997013069967360"
+        },
+        "bmw-i8": {
+            "isim": "BMW İ8",
+            "fiyat": 350000,
+            "kategori": "araba",
+            "rolID": "1010999054504820827"
+        },
+        "mercedes-amg-g63": {
+            "isim": "Mercedes Amg G63",
+            "fiyat": 500000,
+            "kategori": "araba",
+            "rolID": "1010999746950856704"
+        },
+            "tesla-model-x": {
+            "isim": "Tesla Model X",
+            "fiyat": 700000,
+            "kategori": "araba",
+            "rolID": "1011000173666766848"
+        },
+        "lamborghini-aventador": {
+            "isim": "Lamborghini Aventador",
+            "fiyat": 1000000,
+            "kategori": "araba",
+            "rolID": "1011000181308801055"
+        },
+        "stüdyo-daire-1+1": {
+            "isim": "Stüdyo Daire 1+1",
+            "fiyat": 35000,
+            "kategori": "ev",
+            "rolID": "1010996156333043742"
+        },
+        "apartman-dairesi": {
+            "isim": "Apartman Dairesi",
+            "fiyat": 100000,
+            "kategori": "ev",
+            "rolID": "1010996165216579666"
+        },
+        "bahçeli-ev": {
+            "isim": "Bahçeli Ev",
+            "fiyat": 250000,
+            "kategori": "ev",
+            "rolID": "1010996162754531348"
+        },
+        "villa": {
+            "isim": "Villa",
+            "fiyat": 350000,
+            "kategori": "ev",
+            "rolID": "1010996170409115698"
+        },
+        "köşk": {
+            "isim": "Köşk",
+            "fiyat": 600000,
+            "kategori": "ev",
+            "rolID": "1011309965790695515"
+        },
+        "malikane": {
+            "isim": "Malikane",
+            "fiyat": 1000000,
+            "kategori": "ev",
+            "rolID": "1010996168181960846"
+        },
+        "suzuki-gsx-125r": {
+            "isim": "Suzuki Gsx 125r",
+            "fiyat": 15000,
+            "kategori": "motor",
+            "rolID": "1011003677139542146"
+        },
+        "yamaha-r25": {
+            "isim": "Yamaha R25",
+            "fiyat": 20000,
+            "kategori": "motor",
+            "rolID": "1011002589187420281"
+        },
+        "garley-davidson-iron-883": {
+            "isim": "Harley Davidson Iron 883",
+            "fiyat": 30000,
+            "kategori": "motor",
+            "rolID": "1011004880942530631"
+        },
+        "honda-cbr-500r": {
+            "isim": "Honda CBR 500R",
+            "fiyat": 40000,
+            "kategori": "motor",
+            "rolID": "1011003684206940180"
+        },
+        "kawasaki-ninja": {
+            "isim": "Kawasaki Ninja",
+            "fiyat": 60000,
+            "kategori": "motor",
+            "rolID": "1011003682558582884"
+        },
+        "nokia-3310": {
+            "isim": "Nokia 3310",
+            "fiyat": 1000,
+            "kategori": "telefon",
+            "rolID": "1011009171283521617"
+        },
+        "samsung-galaxy-s3": {
+            "isim": "Samsung Galaxy S3",
+            "fiyat": 1500,
+            "kategori": "telefon",
+            "rolID": "1011005871771357184"
+        },
+        "iphone-x": {
+            "isim": "Iphone X",
+            "fiyat": 2500,
+            "kategori": "telefon",
+            "rolID": "1011016893433401354"
+        },
+        "iphone-13-pro-max": {
+            "isim": "Iphone 13 Pro Max",
+            "fiyat": 3000,
+            "kategori": "telefon",
+            "rolID": "1011005870324334692"
+        },
+        "sigara": {
+            "isim": "Sigara",
+            "fiyat": 45,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "bira": {
+            "isim": "Bira",
+            "fiyat": 50,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "vodka": {
+            "isim": "Vodka",
+            "fiyat": 150,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "rakı": {
+            "isim": "Rakı",
+            "fiyat": 150,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "viski": {
+            "isim": "Viski",
+            "fiyat": 300,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "tekila": {
+            "isim": "Tekila",
+            "fiyat": 300,
+            "kategori": "ürünler",
+            "rolID": "Yok"
+        },
+        "ruhsat": {
+            "isim": "Ruhsat",
+            "fiyat": 500,
+            "kategori": "silah",
+            "rolID": "1011285595303202877"
+        },
+        "glock-19": {
+            "isim": "Glock 19",
+            "fiyat": 7500,
+            "kategori": "silah",
+            "rolID": "1011000792574078986"
+        },
+        "mermi": {
+            "isim": "Mermi",
+            "fiyat": 2000,
+            "kategori": "mermi",
+            "rolID": "Yok"
+        },
+        "sar-9-cx": {
+            "isim": "SAR 9 CX",
+            "fiyat": 8000,
+            "kategori": "illegal",
+            "rolID": "1011000411618025593"
+        },
+        "yat": {
+            "isim": "Yat",
+            "fiyat": 500000,
+            "kategori": "gemi",
+            "rolID": "1011315738990088323"
+        },
+        "yelkenli": {
+            "isim": "Yelkenli",
+            "fiyat": 250000,
+            "kategori": "gemi",
+            "rolID": "1011315736561598605"
+        },
+        "tekne": {
+            "isim": "Tekne",
+            "fiyat": 100000,
+            "kategori": "gemi",
+            "rolID": "1011315734548332646"
+        }
+    }
+}

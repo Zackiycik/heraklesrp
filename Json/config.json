@@ -1,0 +1,14 @@
+{
+    "Prefix": "!",
+    "Token": "TOKEN",
+    "devOnly": "836636146485952602",
+    "guild": "GUILD ID",
+    "Color": "#RENK KODU",
+    "Footer": "Coded by Zack",
+    "yetkiler": {
+        "kurucu": "ROL ID",
+        "admin": "ROL ID",
+        "rd": "ROL ID",
+        "helper": "ROL ID"
+    }
+}
